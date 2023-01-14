@@ -1,0 +1,10 @@
+     1	ty
+     2	ui
+     3	op
+     4	qw
+     5	zx
+     6	cv
+     7	bn
+     8	mk
+     9	lo
+    10	hu
